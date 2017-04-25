@@ -1,0 +1,12 @@
+/**/*.iml
+/**/*.ipr
+/**/*.iws
+/**/*.ids
+/SpringApp/.DS_Store
+/SpringApp/.idea
+/SpringApp/target
+/SpringApp/build
+/SpringApp/.gradle
+/SpringApp/.settings
+/SpringApp/.mvn
+
